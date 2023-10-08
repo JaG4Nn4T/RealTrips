@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carousel</title>
+    <link rel="stylesheet" href="carousel.css">
+    <!-- jquery 3.x -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+</head>
+<body>
+    
+    <section class="container">
+        <div class="slider-wrapper">
+            <div class="slider">
+                <img id="slider-1" src="Carousel/Paisaje11.jpg" alt="">
+                <img id="slider-2" src="Carousel/Paisaje12.jpg" alt="">
+                <img id="slider-3" src="Carousel/Paisaje2.jpg" alt="">
+                <img id="slider-4" src="Carousel/Paisajes1.jpg" alt="">
+            </div>
+            <div class="slider-nav">
+                <a href="#slider-1"></a>
+                <a href="#slider-2"></a>
+                <a href="#slider-3"></a>
+                <a href="#slider-4"></a>
+            </div>
+        </div>
+    </section>
+
+    <!--script of animation jquery-->
+    <script>
+        var counter = 0;
+        $(".slider-nav a").eq(counter).css("background-color", "orange");
+
+        $(".slider-nav a").click(function(){
+            counter = $(this).index();
+
+            /*alert($(this).index());*/
+            
+            $(".slider-nav a").css("background-color", "aliceblue");
+            $(this).css("background-color","orange");
+
+            /*$(".slider").hide();
+            $(".slider").eq(counter).faceIn();*/ /*Para casos de trabajar cada imagen por contenedor individual*/
+            
+        });
+
+        /*$setIterval(function(){
+
+        }, 5000);*/ /*completar las direccionales con codigo y reutilizar el codigo de estas*/
+    </script>
+
+</body>
+</html>

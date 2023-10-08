@@ -1,0 +1,42 @@
+214
+
+
+
+rgba(230, 29, 123, 0.322)
+
+
+/*** NOTAS DE CAMBIO AL CODIGO ***/
+Linea 218 del .css y relacionar en el .html para dejar imagen en el contenedor y quitar el icono
+En la parte de "Tours & more" asignar los links de cada red social relacionada al tours
+En "Contact Me!" modificar y dejar los links de arriba con mas informacionde la pagina
+En la parte de "Our Services" Se tendra la consideracion de dejar los iconos o poner fotografias
+
+
+
+
+/*** REEL INSTAGRAM (TOURS) ***/  ---   Ponerlos en ingles
+****** https://www.instagram.com/reel/CnlTxYwqEZq/ ---> Volcan
+****** https://www.instagram.com/reel/CnhoWTlote0/ ---> Salto ---> https://www.instagram.com/reel/CdOHANUIarB/ <---> "https://www.instagram.com/p/CK0D6NOnbSF/"
+https://www.instagram.com/reel/CmBOwButX4e/ ---> Servicios Auropuerto (poner en ingles)
+****** https://www.instagram.com/reel/Cj3gl-sOxC_/ ---> Lago de coatepeque ---> https://www.instagram.com/reel/Ch59sIxonDI/
+****** https://www.instagram.com/reel/CfgNep7jAtv/ (posiblemente quitar) ---> Playas ---> https://www.instagram.com/reel/BzD7CuWn7YP/ ---> https://www.instagram.com/reel/B2KLDCEHGV3/ ---> https://www.instagram.com/reel/CoYpe8vIMrB/
+****** https://www.instagram.com/reel/CI5v2eHnAag/ ---> Imposible
+****** https://www.instagram.com/reel/CBY4IqxntLG/ ---> Monte Cristo ---> https://www.instagram.com/reel/Co5IrgRPrvR/ ---> https://www.instagram.com/reel/Co8rBlgo1AS/ ---> https://www.instagram.com/reel/CpJwklvO_bZ/
+****** https://www.instagram.com/reel/B78qvX4nfux/ ---> City Tours (Centro historico de El Salvador Boqueron) ---> https://www.instagram.com/reel/CnnfUCTo1ce/ ---> https://www.instagram.com/reel/Coa_86_JEIp/
+****** https://www.instagram.com/reel/B1wZuz6g0UG/ ---> Chorros de la calera
+****** https://www.instagram.com/reel/BvnlSFgjn0S/ ---> Sapoapa (lost in Santa Ana) ---> https://www.instagram.com/reel/BvolgyiBxu1/ ---> https://www.instagram.com/reel/Bu6sUA9nnJ6/
+****** https://www.instagram.com/reel/B5GFYKSHfor/ ---> Tamanique
+https://www.instagram.com/reel/CJme9eSHCTa/ ---> Camping 
+****** https://www.instagram.com/reel/ChtWQXRtGjx/ ---> Rutas de las flores ---> https://www.instagram.com/reel/CjMfdD_o8rG/
+
+/*** SERVICES ***/ ---> /* Crear .pdf por servicio */
+Transporte
+Hosteleria
+Alquiler de motocicletas y autos
+Servicios medio ambientales
+Clases de espa;ol
+Conociendo nuestra cultura
+Etc.
+Ruinas ---> https://www.instagram.com/p/CR44E-arSFm/
+
+
